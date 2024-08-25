@@ -114,5 +114,23 @@ The conservative strategy has a lower threshold compared with aggressive one; he
 
 0.3 :– Conservative Strategy because the default decreases almost by half but revenue isn’t drastically affected
 
+**Skills and Technologies:**
+
+* Python
+
+* Data Analysis and Preprocessing
+
+* Machine Learning
+
+* Feature Selection
+
+* Hyperparameter Tuning
+
+* Model Evaluatio
+
+* Data Visualization
+
+* Libraries: pandas, numpy, scikit-learn, xgboost, keras, tensorflow
+
  
 Thank You. Let’s keep learning and growing together!
