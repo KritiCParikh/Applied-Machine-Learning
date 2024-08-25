@@ -6,6 +6,30 @@ Solely in 2022, American Express amassed approximately $53 billion in revenue. T
 
 Given the abundance of readily accessible customer data and many indicators, employing Machine Learning algorithms to forecast defaults presents a lucrative opportunity.
 
+## Skills and Technologies:
+
+* Python
+
+* Data Analysis and Preprocessing
+
+* Machine Learning
+
+* Feature Selection
+
+* Hyperparameter Tuning
+
+* Model Evaluatio
+
+* Data Visualization
+
+* Libraries: pandas, numpy, scikit-learn, xgboost, keras, tensorflow
+
+### Business Impact:
+
+- Credit Default Prediction: The model predicts the probability of credit card default, which can help financial institutions assess customer risk.
+  
+- Risk-Based Strategies: The code implements both conservative and aggressive strategies based on different prediction thresholds, allowing for flexible risk management.
+
 
 **Data**
 
@@ -113,30 +137,5 @@ The conservative strategy has a lower threshold compared with aggressive one; he
 0.5 :– Aggressive strategy because we want to increase our Revenue while maintaining the default rate below 10%
 
 0.3 :– Conservative Strategy because the default decreases almost by half but revenue isn’t drastically affected
-
-**Skills and Technologies:**
-
-* Python
-
-* Data Analysis and Preprocessing
-
-* Machine Learning
-
-* Feature Selection
-
-* Hyperparameter Tuning
-
-* Model Evaluatio
-
-* Data Visualization
-
-* Libraries: pandas, numpy, scikit-learn, xgboost, keras, tensorflow
-
-**Business Impact:**
-
-- Credit Default Prediction: The model predicts the probability of credit card default, which can help financial institutions assess customer risk.
-  
-- Risk-Based Strategies: The code implements both conservative and aggressive strategies based on different prediction thresholds, allowing for flexible risk management.
-
  
 Thank You. Let’s keep learning and growing together!
