@@ -132,5 +132,11 @@ The conservative strategy has a lower threshold compared with aggressive one; he
 
 * Libraries: pandas, numpy, scikit-learn, xgboost, keras, tensorflow
 
+**Business Impact:**
+
+- Credit Default Prediction: The model predicts the probability of credit card default, which can help financial institutions assess customer risk.
+  
+- Risk-Based Strategies: The code implements both conservative and aggressive strategies based on different prediction thresholds, allowing for flexible risk management.
+
  
 Thank You. Let’s keep learning and growing together!
