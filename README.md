@@ -38,6 +38,7 @@ The historical data from credit card transactions encompasses 458,913 customers 
 Target Variable = 1 if the customer default on CC payment
                 = 0 if the customer didn’t default
 
+Dataset: https://www.kaggle.com/competitions/amex-default-prediction/overview
 
 **Features**
 
