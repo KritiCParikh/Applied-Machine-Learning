@@ -18,7 +18,7 @@ Given the abundance of readily accessible customer data and many indicators, emp
 
 * Hyperparameter Tuning
 
-* Model Evaluatio
+* Model Evaluation
 
 * Data Visualization
 
